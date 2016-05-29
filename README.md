@@ -12,3 +12,7 @@ http://xem.github.io/miniBurningShip/big.html (commented source code, click to z
 http://xem.github.io/miniBurningShip/index.html (220b)
 
 http://xem.github.io/miniBurningShip/index2.html (255b)
+
+<hr>
+
+Goose fractal, that I invented by mistake while doing this: http://xem.github.io/miniBurningShip/goosebig.html 
